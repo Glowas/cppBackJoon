@@ -21,7 +21,7 @@ int main() {
 		a2 += double(a1[i]) / max * 100;
 	}
 
-	cout << double(a2 / n);
+	cout << a2 / n;
 
 	return 0;
 }
